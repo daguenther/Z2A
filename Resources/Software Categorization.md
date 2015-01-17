@@ -16,5 +16,10 @@ Accessed means that a program is able to read and write to the file.
 In addition to classes of software, some resources are easier to work with then others. In addition to sorting programs by their class, I will also sort programs by their difficulty
 
 * Difficulty 1 Software - Easy to use by anyone without prior experience to the program.
-* D2 Software - Moderatly level of experience needed to use.
-* D3 Software - Hard to use without 
+* D2 Software - Moderately level of experience needed to use.
+* D3 Software - High level of experience needed to use
+* D4 Software - Extreme level of experience needed to use
+
+All of these difficulty levels assume a basic working knowledge of computers.
+
+* WIP: develop an introduction to computers course
