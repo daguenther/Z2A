@@ -9,7 +9,7 @@ This is an easy to use lesson plan / handout format.
 * [Homepage](http://commonmark.org/)
 * [Exporter](http://spec.commonmark.org/dingus.html)
 
-### Pandoc (C1,D2)
+### Pandoc (C1, D2)
 
 Pandoc is a great tool for exporting Markdown to other formats. Also works with a long list of document types, from docx to latex
 
@@ -17,8 +17,14 @@ Pandoc is a great tool for exporting Markdown to other formats. Also works with 
 * [Homepage](http://johnmacfarlane.net/pandoc/)
 * [Exporter](http://johnmacfarlane.net/pandoc/try/)
 
-### Latex (C1,D3)
+### Latex (C1, D3)
 
 Latex is an amazing document preparation tool, with a large learning curve. It is a programming language, with the output being documents. Things typeset in Latex are professional and organized. Latex also provides the ability to use beautiful math formulas
 
 * [Homepage](http://www.latex-project.org/)
+
+### Libreoffice Writer (C1, D2)
+
+As part of the productivity suite, Libreoffice Writer provdies a WYSIWYG editor. In addion, Writer also provides PDF export, open and other propietary document formats, and many other feautures.
+
+* [Homepage](http://www.libreoffice.org/)
