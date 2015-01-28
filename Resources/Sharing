@@ -1,0 +1,15 @@
+# Sharing
+
+## Bit Torrent Sync (C2, D1)
+
+Bit Torrent Sync provides an easy to use interface to sync documents betweeen computers without the need for a centralized server. If the internet ever did go down, this would be the tool to use. It is available for all Operating systems, from IOS to Linux.
+
+* [Homepage](www.getsync.com)
+
+## Syncthing (C1, D2)
+
+Syncthing is an open source alternative to BT Sync. Avaiable for all platforms except for IOS. It is less mature then Sync, and requires more technical experience.
+
+* [Homepage](syncthing.net)
+
+## 
