@@ -18,7 +18,7 @@ In addition to classes of software, some resources are easier to install then ot
 * Install difficulty 1 Software - Easy to install by anyone without prior experience to the program.
 * I2 Software - Moderately level of experience needed to install.
 * I3 Software - High level of experience needed to install.
-* I4 Software - Impossible to Install
+* I4 Software - Impossible to install
 
 All of these difficulty levels assume a basic working knowledge of computers.
 
