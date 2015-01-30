@@ -4,4 +4,6 @@ OS's provide the framework on which everything else is used
 
 ## Ubuntu Desktop (C1, I2, U1)
 
-Ubuntu is an extremly friendly linux distribution. It provides internet browsing, email, pho
+Ubuntu is an extremly friendly linux distribution. It provides internet browsing, email, photo managmenet, and an office suite right out of the box. In addition, Ubuntu comes with support from the community as well their host company, Canonical.
+
+* (Homepage)[http://www.ubuntu.com/]
