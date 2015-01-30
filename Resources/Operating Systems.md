@@ -18,3 +18,5 @@ Ubuntu Server is a powerful tool for managing the school website, or other web d
 ### Ubuntu Cloud (C2, I4, U2)
 
 Ubuntu Cloud is a new approach to managing hardware and software. Landscape is a paid tool that makes light work of managing multiple school machines.
+
+* [Homepage](http://www.ubuntu.com/cloud)
