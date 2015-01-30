@@ -18,7 +18,7 @@ Gitlab is an open source git hub for managing documents. It is incredibly useful
 
 It work best when using flat file documents, such as commonmark or LaTex. Knowledge of Git is also required.
 
-* [Homepage](about.gitlab.com)
+* [Homepage](https://about.gitlab.com/)
 
 ## Pydio (C1, I4, U1)
 
