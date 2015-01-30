@@ -24,11 +24,9 @@ All of these difficulty levels assume a basic working knowledge of computers.
 
 ## Use Difficulty
 
-In addition to classes of software, some resources are easier to install then others. In addition to sorting programs by their class, I will also sort programs by their difficulty to implement
+In addition to classes of software, some resources are easier to use then others. 
 
 * Use difficulty 1 Software - Easy to use by anyone without prior experience to the program.
 * U2 Software - Moderately level of experience needed to use.
 * U3 Software - High level of experience needed to use.
 * U4 Software - Extreme level of experience needed to use.
-
-All of these difficulty levels assume a basic working knowledge of computers.
