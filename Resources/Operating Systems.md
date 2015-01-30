@@ -11,4 +11,10 @@ Ubuntu is an extremly friendly linux distribution. It provides internet browsing
 
 ## Ubuntu Server (C1, I3, U3)
 
-Ubuntu Server is a powerful tool for managing the school website, or the school computers.
+Ubuntu Server is a powerful tool for managing the school website, or other web driven technologies. Wordpress and other tools are relatively easy to set up.
+
+* [Homepage](http://www.ubuntu.com/server)
+
+### Ubuntu Cloud (C2, I4, U2)
+
+Ubuntu Cloud is a new approach to managing hardware and software. Landscape is a paid tool that makes light work of managing multiple school machines.
