@@ -14,6 +14,10 @@ Youtube has become the standard in video sharing, and everything else doesn't ev
 
 ## Google Calendar (C2, NI, U2)
 
-Google Calendar is useful for sharing time specific events.
+Google Calendar is useful for sharing time specific events to a large audience. There is an ability to export your calendars for use in another application.
+
+* (Homepage)[https://www.google.com/calendar/]
+
+
 
 
