@@ -14,6 +14,6 @@ Youtube has become the standard in video sharing, and everything else doesn't ev
 
 ## Google Calendar (C2, NI, U2)
 
-Google Calendar is useful for sharing time sep
+Google Calendar is useful for sharing time specific events.
 
 
