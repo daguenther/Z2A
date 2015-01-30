@@ -12,10 +12,14 @@ Syncthing is an open source alternative to BT Sync. Avaiable for all platforms e
 
 * [Homepage](syncthing.net)
 
-## Gitlab (C1, I4, U2)
+## Gitlab (C1, I4, U3)
 
 Gitlab is an open source git hub for managing documents. It is incredibly useful for multiple people to work on the same document independently, and the merge changes into each other.
 
 It work best when using flat file documents, such as commonmark or LaTex. Knowledge of Git is also required.
 
 * [Homepage](about.gitlab.com)
+
+## Pydio (C1, I4, U1)
+
+Pydio is more of a traditional approach to filesharing. This is a server controlled installing. As opposed to Gitlab, there is no revision control and merging with documents, but it does provide a lot 
