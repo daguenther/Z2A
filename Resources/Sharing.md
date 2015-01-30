@@ -22,4 +22,4 @@ It work best when using flat file documents, such as commonmark or LaTex. Knowle
 
 ## Pydio (C1, I4, U1)
 
-Pydio is more of a traditional approach to filesharing. This is a server controlled installing. As opposed to Gitlab, there is no revision control and merging with documents, but it does provide a lot 
+Pydio is more of a traditional approach to filesharing. This is a server controlled installing. As opposed to Gitlab, there is no revision control and merging with documents, but it does provide a lot of ease of use for those wishing to share folders and files across a large organization.
