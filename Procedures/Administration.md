@@ -2,6 +2,8 @@ When it comes to managing computers from an administration standpoint, there are
 
 # Google Apps for Education
 
-Google apps for education
+Google apps for education is the easiest approach to going from zero to awesome overnight. Outsourcing the server demands means that as a small school, one does not need to worry about server strain. The downside is that if Google ever does go offline, there is nothing you can do about it.
+
+I would recommend this approach for 
 
 
