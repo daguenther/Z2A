@@ -21,6 +21,8 @@ Support IT staff should qualify as SC - 4.
 * For every SC2: the school must have 1/16 SC4
 * For every SC3: the school must have 1/32 SC4
 
+Example: for every 8 teachers that have SC1, there must be one IT support staff.
+
 ## Training
 
 Training sessions are determined by the level of staff competence.
