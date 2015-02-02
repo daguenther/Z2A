@@ -14,7 +14,9 @@ It is not an absolute that an individual will be able to use a I/U4 because they
 
 ## Support Staff
 
-For every 20 teachers, the school must hire 1 full time IT support staff.
+Support IT staff qualify as SC - 4.
+
+The school must maintain an average of 
 
 ## Training
 
