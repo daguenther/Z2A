@@ -23,10 +23,12 @@ For every SC - 3: the school must have 1/32 SC - 4
 
 ## Training
 
+Training sessions are determined by the level of staff competance.
+
 SC - 0: 4 hours per month
 SC - 1: 2 hours per month
 SC - 2: 1 hour per month
 
-Once a month the school is responsible for providing a training session on the use of computers in the classroom. This is to raise the level of competancy for school staff.
+
 
 
