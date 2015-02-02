@@ -4,7 +4,8 @@
 
 Staff competence is broken down into 4 categories. These correspond to the various install and use cases of techology as listed in software categorization.
 
-* Staff Competance 1: the staff member has a basic knowledge of computers and can use simple programs
+* Staff Competance 0: The staff member has no knowledge of how to use a comptuer
+* SC - 1: Basic knowledge of computers and can use simple programs
 * SC - 2: Intermediate knowledge of technology
 * SC - 3: Advanced knowledge of technology
 * SC - 4: Extremely competant with technology
