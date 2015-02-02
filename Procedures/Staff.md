@@ -14,9 +14,9 @@ It is not an absolute that an individual will be able to use a I/U4 because they
 
 ## Support Staff
 
-Support IT staff qualify as SC - 4.
+Support IT staff should qualify as SC - 4.
 
-The school must maintain an average of 
+For every SC - 0, the school must have 
 
 ## Training
 
