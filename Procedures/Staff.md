@@ -1,8 +1,11 @@
 # Staff
 
-Staff competance is broken down into 4 categories.
+Staff competence is broken down into 4 categories.
 
-Staff Competance 1 - 
+* Staff Competance 1: the staff member has a basic knowledge of computers and can use simple programs
+* SC - 2: Intermediate knowledge of technology
+* SC - 3: Advanced knowledge of technology
+* SC - 4: 
 
 ## Hiring
 
