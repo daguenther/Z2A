@@ -29,6 +29,8 @@ SC - 0: 4 hours per month
 SC - 1: 2 hours per month
 SC - 2: 1 hour per month
 
+These workshops are put on by SC - 3 or 4.
+
 
 
 
