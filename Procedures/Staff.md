@@ -4,7 +4,7 @@
 
 Staff competence is broken down into 5 categories. These correspond to the various install and use cases of technology as listed in software categorization.
 
-* Staff Competence 0: The staff member has no knowledge of how to use a computer
+* Staff Competence of 0: The staff member has no knowledge of how to use a computer
 * SC1: Basic knowledge of computers and can use simple programs
 * SC2: Intermediate knowledge of technology
 * SC3: Advanced knowledge of technology
