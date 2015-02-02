@@ -23,4 +23,4 @@ For every SC - 3: the school must have 1/32 SC - 4
 
 ## Training
 
-Once a month the school is responsible for providing a 1 hour training session on the use of computers in the classroom.
+Once a month the school is responsible for providing a 1 hour training session on the use of computers in the classroom. This is to raise the level of competancy for school staff.
