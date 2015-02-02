@@ -16,10 +16,10 @@ It is not an absolute that an individual will be able to use a I/U4 because they
 
 Support IT staff should qualify as SC - 4.
 
-For every SC - 0: the school must have 1/2 SC - 4
-For every SC - 1: the school must have 1/4 SC - 4
-For every SC - 2: the school must have 1/8 SC - 4
-For every SC - 3: the school must have 1/16 SC - 4
+For every SC - 0: the school must have 1/3 SC - 4
+For every SC - 1: the school must have 1/6 SC - 4
+For every SC - 2: the school must have 1/9 SC - 4
+For every SC - 3: the school must have 1/12 SC - 4
 
 ## Training
 
