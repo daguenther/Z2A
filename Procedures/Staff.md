@@ -14,14 +14,12 @@ It is not an absolute that an individual will be able to use a I/U# because they
 
 ## Support Staff
 
-Support IT staff should qualify as having SC4.
+Support IT staff should qualify as having a SC4.
 
-* For every person with SC0: the school must have 1/4 SC4
-* For every person with SC1: the school must have 1/8 SC4
-* For every person with SC2: the school must have 1/16 SC4
-* For every person with SC3: the school must have 1/32 SC4
-
-Example: for every 8 teachers that have SC1, there must be one IT support staff.
+* For every 4 people with SC0: the school must have 1 person with SC4
+* For every 8 people with SC1: the school must have 1 person with SC4
+* For every 16 people with SC2: the school must have 1 person with SC4
+* For every 32 people with SC3: the school must have 1 person with SC4
 
 ## Training
 
