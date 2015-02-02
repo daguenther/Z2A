@@ -10,16 +10,16 @@ Staff competence is broken down into 5 categories. These correspond to the vario
 * SC3: Advanced knowledge of technology
 * SC4: Extremely competent with technology
 
-It is not an absolute that an individual will be able to use a I/U4 because they are have SC4. But it does mean that the individual is capable of learning the piece of software on their own.
+It is not an absolute that an individual will be able to use a I/U# because they are have SC#. But it does mean that the individual is capable of learning the piece of software on their own.
 
 ## Support Staff
 
-Support IT staff should qualify as having SC - 4.
+Support IT staff should qualify as having SC4.
 
-* For every SC0: the school must have 1/4 SC4
-* For every SC1: the school must have 1/8 SC4
-* For every SC2: the school must have 1/16 SC4
-* For every SC3: the school must have 1/32 SC4
+* For every person with SC0: the school must have 1/4 SC4
+* For every person with SC1: the school must have 1/8 SC4
+* For every person with SC2: the school must have 1/16 SC4
+* For every person with SC3: the school must have 1/32 SC4
 
 Example: for every 8 teachers that have SC1, there must be one IT support staff.
 
