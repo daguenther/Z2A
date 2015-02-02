@@ -14,7 +14,7 @@ It is not an absolute that an individual will be able to use a I/U4 because they
 
 ## Support Staff
 
-Support IT staff should qualify as SC - 4.
+Support IT staff should qualify as having SC - 4.
 
 * For every SC0: the school must have 1/4 SC4
 * For every SC1: the school must have 1/8 SC4
@@ -31,4 +31,4 @@ Training sessions are determined by the level of staff competence.
 * SC1: 2 hours per month
 * SC2: 1 hour per month
 
-These workshops are put on by SC3 or 4.
+These workshops are put on by a person with SC3 or 4.
