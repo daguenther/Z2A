@@ -22,6 +22,8 @@ Certain guidelines and proceduers must be in place for proper computer use.
 * Don't steal other people's stuff, it's agains the law
 * Don't hack programs unless you're allowed to
 * It's better to say something in person if you can
+* Don't sit in one place for too long, it's bad for you
+
 
 Problem: students are left to their own devices on the internet without regulation. No amount of technology can fully limit opportunities for students to engage in improper behavior.
 Solution: Parents who instruct their children in proper technology use.
