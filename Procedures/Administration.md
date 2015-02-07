@@ -20,6 +20,8 @@ Certain guidelines and proceduers must be in place for proper computer use.
 Problem: students are left to their own devices on the internet without regulation. No amount of technology can fully limit opportunities for students to engage in improper behavior.
 Solution: Parents who instruct their children in proper technology use.
 
+# Cyber Bulling
 
+The school will set up a email address for the submission of cyber bulling
 
 
