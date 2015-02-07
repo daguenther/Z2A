@@ -17,6 +17,8 @@ It is a emormous task to try and manage everyone's computer. To cut down on stra
 
 Certain guidelines and proceduers must be in place for proper computer use.
 
+* 
+
 Problem: students are left to their own devices on the internet without regulation. No amount of technology can fully limit opportunities for students to engage in improper behavior.
 Solution: Parents who instruct their children in proper technology use.
 
