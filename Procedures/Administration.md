@@ -45,7 +45,7 @@ The school will set up a email address for the submission of cyber bulling attac
 
 Upon receiving an email, an emailed will be forward to the parents / guardian in charge of the student (unless the attack comes from home).
 
-The school will then procede to find the attacker and establish the following disciplinary action (if the attacker is a student). Collaboration will be done with parents to reccomend how to approach the situation at home.
+The school will then procede to find the attacker and establish the following disciplinary action (if the attacker is a student). Collaboration will be done with parents to reccomend how to approach the situation at home. Possible police involvment will be evaluated as need be.
 
 * 1st offence: Apologize in person / 1 week without internet devices at school (at home with parents consent)
 * 2nd offence: Apologize in person with both parents present / 2 weeks without devices
