@@ -55,6 +55,7 @@ The school will then procede to find the attacker and establish the following di
 The school will also provide help for the victim.
 
 * Counselling (as need be)
+* Providing a mentor (as need be)
 * Going socially offline (as need be)
 * Public annoucements (if the abuse has become school-wide)
 
