@@ -29,4 +29,6 @@ The school will set up a email address for the submission of cyber bulling attac
 3. Location of attack (which social network)
 4. Quoted exert of attack
 
+Upon receiving an email, an emailed will be forward to the parents / guardian in charge of the student (unless the attack comes from home).
+
 
