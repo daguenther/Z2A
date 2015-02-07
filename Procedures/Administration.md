@@ -22,6 +22,10 @@ Solution: Parents who instruct their children in proper technology use.
 
 # Cyber Bulling
 
-The school will set up a email address for the submission of cyber bulling
+The school will set up a email address for the submission of cyber bulling attacks. The email address will be made publically available for students to access. Students are asked to include the following information:
+
+1. Full Name (real name and c
+2. Name of attacker (real name and cyber name)
+3. 
 
 
