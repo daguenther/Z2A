@@ -33,12 +33,14 @@ Upon receiving an email, an emailed will be forward to the parents / guardian in
 
 The school will then procede to find the attacker and establish the following disciplinary action. Collaboration will be done with parents to reccomend how to approach the situation at home.
 
-1st offence: Apologize in person / 1 week without internet devices at school (at home with parents consent)
-2nd offence: Apologize in person with both parents present / 2 weeks without devices
-3rd offence: Apologize in front of school / 3 weeks without devices
-4th offence: Permanent Suspention
+* 1st offence: Apologize in person / 1 week without internet devices at school (at home with parents consent)
+* 2nd offence: Apologize in person with both parents present / 2 weeks without devices
+* 3rd offence: Apologize in front of school / 3 weeks without devices
+* 4th offence: Permanent Suspention
 
 The school will also provide help for the victim.
+
+
 
 
 
