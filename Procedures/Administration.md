@@ -25,6 +25,12 @@ Certain guidelines and proceduers must be in place for proper computer use. Comm
 * Don't sit in one place for too long, it's bad for you
 * Don't torrent or download large files during the day
 
+Additional guidlines will be talked about with only parents
+
+* How much time their kids should be on screens
+* Talking to your kids about pornography
+* 
+
 # Cyber Bulling
 
 The school will set up a email address for the submission of cyber bulling attacks. The email address will be made publically available for students to access. Students are asked to include the following information:
