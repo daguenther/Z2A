@@ -28,8 +28,8 @@ Certain guidelines and proceduers must be in place for proper computer use. Comm
 Additional discussion will be with only parents
 
 * Screen time
-* Pornography
-* Different online communites students become part of (some are better then others)
+* People kids meet online
+* Exposure to violence, language, pornography
 
 # Cyber Bulling
 
