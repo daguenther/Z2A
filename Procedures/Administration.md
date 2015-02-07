@@ -24,6 +24,7 @@ Certain guidelines and proceduers must be in place for proper computer use. Comm
 * It's better to say something in person if you can
 * Don't sit in one place for too long, it's bad for you
 * Don't torrent or download large files during the day
+* If you don't know the person, don't talk to them
 
 Additional discussion will be with only parents
 
