@@ -26,7 +26,7 @@ Certain guidelines and proceduers must be in place for proper computer use. Comm
 * Don't torrent or download large files during the day
 * Don't share personal information with people you don't know
 
-Additional discussion will be with only parents
+Additional discussion will be with only parents. At the beginning of each school year a workshop / presentation will be held for 
 
 * Screen time
 * People kids meet online
