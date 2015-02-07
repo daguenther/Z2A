@@ -25,11 +25,11 @@ Certain guidelines and proceduers must be in place for proper computer use. Comm
 * Don't sit in one place for too long, it's bad for you
 * Don't torrent or download large files during the day
 
-Additional guidlines will be talked about with only parents
+Additional discussion will be with only parents
 
 * How much time their kids should be on screens
 * Talking to your kids about pornography
-* 
+* Different online communites students become part of
 
 # Cyber Bulling
 
