@@ -17,16 +17,16 @@ It is a emormous task to try and manage everyone's computer. To cut down on stra
 
 Certain guidelines and proceduers must be in place for proper computer use. Communication must also happen with parents for the use of these guidlines at home.
 
-* Don't pretend to be someone who you're not
+* Don't pretend to be someone who you're not (*)
+* Don't torrent or download large files during the day (*)
+* Don't steal other people's stuff, it's against the law (*)
+* Don't hack programs unless you're allowed to (*)
 * If you wouldn't say it in person, don't say it online
-* Don't steal other people's stuff, it's against the law
-* Don't hack programs unless you're allowed to
 * It's better to say something in person if you can
 * Don't sit in one place for too long, it's bad for you
-* Don't torrent or download large files during the day
 * Don't share personal information with people you don't know
 
-
+Disciplinary action will be carried out for failure to comply with (*), and will follow action for other disciplinary actions that the school has in place.
 
 Additional discussion will be with only parents. At the beginning of each school year a workshop / presentation will be held for parents in the community. Topics surrounding technology use for kids will be talked about, and different ways to educate students. The following are reccommended topics (but not limited to):
 
