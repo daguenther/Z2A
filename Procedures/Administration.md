@@ -17,7 +17,10 @@ It is a emormous task to try and manage everyone's computer. To cut down on stra
 
 Certain guidelines and proceduers must be in place for proper computer use.
 
-* 
+* Don't pretend to be someone who you're not
+* If you wouldn't say it in person, don't say it online
+* Don't steal other people's stuff, it's agains the law (
+* It's better to say something in person if you can
 
 Problem: students are left to their own devices on the internet without regulation. No amount of technology can fully limit opportunities for students to engage in improper behavior.
 Solution: Parents who instruct their children in proper technology use.
