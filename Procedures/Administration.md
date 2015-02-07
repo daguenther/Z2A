@@ -56,6 +56,7 @@ The school will also provide help for the victim.
 
 * Counselling (as need be)
 * Going socially offline (as need be)
+* Public annoucements (if the abuse has become school-wide)
 
 
 
