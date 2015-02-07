@@ -52,11 +52,11 @@ The school will then procede to find the attacker and establish the following di
 * 3rd offence: Apologize in front of school / 3 weeks without devices
 * 4th offence: Permanent Suspention
 
-The school will also provide help for the victim.
+The school will also provide help for the victim, as the need is evaluated.
 
-* Counselling (as need be)
-* Providing a mentor (as need be)
-* Going socially offline (as need be)
+* Counselling
+* Providing a mentor
+* Going socially offline
 * Public annoucements (if the abuse has become school-wide)
 
 
