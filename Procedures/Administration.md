@@ -52,8 +52,8 @@ The school will then procede to find the attacker and establish the following di
 
 The school will also provide help for the victim.
 
-* Counselling as need be
-* Depending on the severority of the attack and the damage done: recommended offline social status while reintegrating with a group of friends.
+* Counselling (as need be)
+* Going socially offline (as need be)
 
 
 
