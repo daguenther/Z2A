@@ -26,6 +26,8 @@ Certain guidelines and proceduers must be in place for proper computer use. Comm
 * Don't torrent or download large files during the day
 * Don't share personal information with people you don't know
 
+
+
 Additional discussion will be with only parents. At the beginning of each school year a workshop / presentation will be held for parents in the community. Topics surrounding technology use for kids will be talked about, and different ways to educate students. The following are reccommended topics (but not limited to):
 
 * Screen time
