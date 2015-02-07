@@ -36,7 +36,7 @@ Additional discussion will be with only parents. At the beginning of each school
 
 # Cyber Bulling
 
-The school will set up a email address for the submission of cyber bulling attacks. The email address will be made publically available for students to access. Students are asked to include the following information:
+The school will set up a email address for the submission of cyber bulling attacks. The email address will be made publicly available for students to access. Students are asked to include the following information:
 
 1. Full Name (real name and cyber name)
 2. Name of attacker (real name and cyber name)
@@ -45,12 +45,12 @@ The school will set up a email address for the submission of cyber bulling attac
 
 Upon receiving an email, an emailed will be forward to the parents / guardian in charge of the student (unless the attack comes from home).
 
-The school will then procede to evaluate the threat. If necessary, to find the attacker and establish the following disciplinary action (if the attacker is a student). Collaboration will be done with parents to reccomend how to approach the situation at home. Possible police involvment will be evaluated as need be.
+The school will then proceed to evaluate the threat. If necessary, to find the attacker and establish the following disciplinary action (if the attacker is a student). Collaboration will be done with parents to recommend how to approach the situation at home. Possible police involvement will be evaluated as need be.
 
 * 1st offence: Apologize in person / 1 week without internet devices at school (at home with parents consent)
 * 2nd offence: Apologize in person with both parents present / 2 weeks without devices
 * 3rd offence: Apologize in front of school / 3 weeks without devices
-* 4th offence: Permanent Suspention
+* 4th offence: Permanent suspension
 
 The school will also provide help for the victim, as the need is evaluated.
 
@@ -58,6 +58,7 @@ The school will also provide help for the victim, as the need is evaluated.
 * Providing a mentor
 * Going socially offline
 * Public announcements to the school body (if the abuse is school wide)
+
 
 
 
