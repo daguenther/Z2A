@@ -17,4 +17,5 @@ It is a emormous task to try and manage everyone's computer. To cut down on stra
 
 Certain guidelines and proceduers must be in place for proper computer use.
 
-Problem: students are left to exercise their flesh nature over the internet without regulation.
+Problem: students are left to exercise their evil nature over the internet without regulation.
+Solution: 
