@@ -27,8 +27,8 @@ Certain guidelines and proceduers must be in place for proper computer use. Comm
 
 Additional discussion will be with only parents
 
-* How much time their kids should be on screens
-* Talking to your kids about pornography
+* Screen time
+* Pornography
 * Different online communites students become part of (some are better then others)
 
 # Cyber Bulling
