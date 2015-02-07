@@ -15,7 +15,7 @@ It is a emormous task to try and manage everyone's computer. To cut down on stra
 
 # Technology Use
 
-Certain guidelines and proceduers must be in place for proper computer use.
+Certain guidelines and proceduers must be in place for proper computer use. Communication must also happen with parents for the use of these guidlines at home.
 
 * Don't pretend to be someone who you're not
 * If you wouldn't say it in person, don't say it online
@@ -24,9 +24,6 @@ Certain guidelines and proceduers must be in place for proper computer use.
 * It's better to say something in person if you can
 * Don't sit in one place for too long, it's bad for you
 * Don't torrent or download large files during the day
-
-Problem: students are left to their own devices on the internet without regulation. No amount of technology can fully limit opportunities for students to engage in improper behavior.
-Solution: Parents who instruct their children in proper technology use.
 
 # Cyber Bulling
 
