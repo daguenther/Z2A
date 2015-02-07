@@ -12,3 +12,7 @@ It is a emormous task to try and manage everyone's computer. To cut down on stra
 
 1. The student must bring a device with an operating system accepted by the school
 2. The student must have installed all the apps the school recommends for learning in their particular area
+
+# Technology Use
+
+
