@@ -39,6 +39,8 @@ This is a key tool for teaching probability.
 
 ## CyanogenMod Calculator  (C1, I1, U1)
 
-CyanogenMod Calculator is one of the best calculators for Android.
+CyanogenMod Calculator is one of the best calculators for Android. Graphing and Matrix manipulation comes built in.
+
+* [Download](https://play.google.com/store/apps/details?id=com.android2.calculator3&hl=en)
 
 
