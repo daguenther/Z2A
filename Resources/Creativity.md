@@ -6,3 +6,5 @@ Blender is a mature digital animation program. It has a steep learning curve, bu
 
 * [Homepage](http://www.blender.org/)
 * [Blender Tutorials](http://www.blenderguru.com/)
+
+## Gimp
