@@ -17,3 +17,7 @@ I would consider this a must for teaching geometry.
 * [Homepage](http://www.geogebra.org/)
 * [Materials](http://tube.geogebra.org/)
 
+## Sage (C1, I3, U4)
+
+Sage is a library of higher math software.
+
