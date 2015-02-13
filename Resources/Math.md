@@ -23,5 +23,9 @@ Sage is a library of higher math software. It is complex and difficult for first
 
 * [Homepage](http://www.sagemath.org/)
 
+## Libreoffice Calc (C1, I1, U3)
 
+Libreoffice Calc is a spreadsheet program that comes with the office suite. It is useful for teacihng
+
+* [Homepage](http://www.libreoffice.org/)
 
