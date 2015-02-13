@@ -29,3 +29,11 @@ Libreoffice Calc is a spreadsheet program that comes with the office suite. It i
 
 * [Homepage](http://www.libreoffice.org/)
 
+## AnyDice (C4, NI, U3)
+
+AnyDice is an online dice roller, that allows students to see the probability for certain numbers to be rolled. Extensive customization allows for multiple use scenarios.
+
+This is a key tool for teaching probability.
+
+* [Homepage](http://anydice.com/)
+
