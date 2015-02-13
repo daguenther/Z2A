@@ -18,7 +18,9 @@ Google Calendar is useful for sharing time specific events to a large audience. 
 
 * (Homepage)[https://www.google.com/calendar/]
 
-## Calculator
+## CyanogenMod Calculator  (C1, I1, U1)
+
+CyanogenMod Calculator is one of the best calculators for 
 
 
 
