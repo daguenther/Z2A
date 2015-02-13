@@ -13,3 +13,5 @@ Gimp is a photo maniuplation program. It can be used to mostly everything that o
 
 * [Homepage](http://www.gimp.org/)
 * [Tutorials](http://www.gimp.org/tutorials/)
+
+## Mixx (C1, I2, U2)
