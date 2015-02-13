@@ -15,3 +15,7 @@ Gimp is a photo maniuplation program. It can be used to mostly everything that o
 * [Tutorials](http://www.gimp.org/tutorials/)
 
 ## Mixx (C1, I2, U2)
+
+Mixx is a DJ program, aimed at production quality streaming.
+
+* [Homepage](http://www.mixxx.org/)
