@@ -37,3 +37,8 @@ This is a key tool for teaching probability.
 
 * [Homepage](http://anydice.com/)
 
+## CyanogenMod Calculator  (C1, I1, U1)
+
+CyanogenMod Calculator is one of the best calculators for Android.
+
+
