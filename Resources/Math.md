@@ -12,6 +12,8 @@ It is not free, but the cost is very cheap ($300 or under), for a permanent lisc
 
 Geogebra is a powerful graphing program, available both offline and across major operating systems. It boasts interactive features, and a large online material browser.
 
+I would consider this a must for teaching geometry.
+
 * [Homepage](http://www.geogebra.org/)
 * [Materials](http://tube.geogebra.org/)
 
