@@ -19,5 +19,7 @@ I would consider this a must for teaching geometry.
 
 ## Sage (C1, I3, U4)
 
-Sage is a library of higher math software.
+Sage is a library of higher math software. It is complex and difficult for first time users, but it can compute incredibly complex equations. For students desiring to take a higher level math at university, this is a great tool to begin to be familar with.
+
+* [Homepage](http://www.sagemath.org/)
 
