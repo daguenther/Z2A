@@ -28,3 +28,9 @@ Latex is an amazing document preparation tool, with a large learning curve. It i
 As part of the productivity suite, Libreoffice Writer provdies a WYSIWYG editor. In addion, Writer also provides PDF export, open and other propietary document formats, and many other feautures.
 
 * [Homepage](http://www.libreoffice.org/)
+
+## Master PDF Editor (C2, I1, U2)
+
+Master PDF editor offers a way to edit and work with PDF files. It offers a rich feauture set to not only merge documents together, but to add/modify other elements on the page
+
+* [Homepage](http://code-industry.net/pdfeditor.php)
