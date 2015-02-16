@@ -34,3 +34,8 @@ As part of the productivity suite, Libreoffice Writer provdies a WYSIWYG editor.
 Master PDF editor offers a way to edit and work with PDF files. It offers a rich feauture set to not only merge documents together, but to add/modify other elements on the page
 
 * [Homepage](http://code-industry.net/pdfeditor.php)
+
+## Atom (C1, I1, U2)
+
+Atom is a code editor produced by Github. It has a modular desing, which allows for many different packages to be installed within the program. It has the feature to preview markdown as you type it, and export your markdown documents to pdf without ever touching the command line. Integration with github
+
