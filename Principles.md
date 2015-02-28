@@ -6,3 +6,5 @@ Below are some basic governing principles that the rest of this project will att
 * Usable on multiple platforms, in multiple languages
 * Usable by those with high and low technical experience
 * Low cost 
+
+
