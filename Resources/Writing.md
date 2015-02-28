@@ -37,5 +37,7 @@ Master PDF editor offers a way to edit and work with PDF files. It offers a rich
 
 ## Atom (C1, I1, U2)
 
-Atom is a code editor produced by Github. It has a modular desing, which allows for many different packages to be installed within the program. It has the feature to preview markdown as you type it, and export your markdown documents to pdf without ever touching the command line. Integration with github
+Atom is a code editor produced by Github. It has a modular desing, which allows for many different packages to be installed within the program. It has the feature to preview markdown as you type it, and export your markdown documents to pdf without ever touching the command line.
+
+* [Homepage](https://atom.io/)
 
