@@ -3,52 +3,52 @@
 ## Website (I4)
 1. Buy Hardware
 
-I highly reccommend [Dell's Tower Server](http://www.dell.com/us/business/p/poweredge-t320/fs). Times will change, but at the moment here is what to shoot for:
+	I highly reccommend [Dell's Tower Server](http://www.dell.com/us/business/p/poweredge-t320/fs). Times will change, but at the moment here is what to shoot for:
 
-* 8 Cores
-* 16 GB Ram
-* RAID Controller
+	* 8 Cores
+	* 16 GB Ram
+	* RAID Controller
 
 2. Install Operating System
 
-Please see the section on Operating Systems for this. If you feel comfertable I reccomend using Ubuntu Server. However, that does not include a graphical user interface. It is a best practice to not install software we don't need on a server computer.
+	Please see the section on Operating Systems for this. If you feel comfertable I reccomend using Ubuntu Server. However, that does not include a graphical user interface. It is a best practice to not install software we don't need on a server computer.
 
- Essentially what you will be doing is writing the install image to a usb. Some software for this would be:
+ 	Essentially what you will be doing is writing the install image to a usb. Some software for this would be:
 
-* [Linux Live USB](http://www.linuxliveusb.com/)
-* [Unetbootin](http://unetbootin.sourceforge.net/)
+	* [Linux Live USB](http://www.linuxliveusb.com/)
+	* [Unetbootin](http://unetbootin.sourceforge.net/)
 
-For help installing Ubuntu Server, please see the [official documentation](https://help.ubuntu.com/)
+	For help installing Ubuntu Server, please see the [official documentation](https://help.ubuntu.com/)
 
 3. Install Server Software (and create what you want)
 
-Please see the [Bitnami Install guide](https://wiki.bitnami.com/Native_Installers_Quick_Start_Guide)
+	Please see the [Bitnami Install guide](https://wiki.bitnami.com/Native_Installers_Quick_Start_Guide)
 
 4. Buy Domain name
 
-I reccommend [NameCheap](https://www.namecheap.com/) to buy your domain name
+	I reccommend [NameCheap](https://www.namecheap.com/) to buy your domain name
 
 5. Set a Static or Dymaic IP address
 
-This [article](https://help.ubuntu.com/community/DynamicDNS) explains how to go about setting a Dynamic IP address on your serve
+	This [article](https://help.ubuntu.com/community/DynamicDNS) explains how to go about setting a Dynamic IP address on your serve
 
 6. Port Forward to Server
 
-[Here is an article dealing with this](http://enterprise.sourceforge.net/configuring_routers_to_use_dynamic_dns_and_port_forwarding.htm)
+	[Here is an article dealing with this](http://enterprise.sourceforge.net/configuring_routers_to_use_dynamic_dns_and_port_forwarding.htm)
 
 ## School computers (I3)
 1. Determine what software you want all students to have
 
-You will need to think about what you want students to be able to do with their computers, and then establish a list of software that meets those requirements.
+	You will need to think about what you want students to be able to do with their computers, and then establish a list of software that meets those requirements.
 
 2. Reccommend hardware to parents
 
-Not all computers are equal in power and usability. Reccommending specific hardware to parents helps them decided what to purchase for their child.
+	Not all computers are equal in power and usability. Reccommending specific hardware to parents helps them decided what to purchase for their child.
 
 3. Implement BYOD
 
-Here are some resources:
+	Here are some resources:
 
-* [One schools division implementation](http://www.peelschools.org/aboutus/21stcentury/byod/Pages/default.aspx)
-* [K-12 Blueprint](http://www.k12blueprint.ca/byod)
-* [Pros and Cons](http://www.securedgenetworks.com/strategy-blog/20-Pros-and-Cons-of-implementing-BYOD-in-schools)
+	* [One schools division implementation](http://www.peelschools.org/aboutus/21stcentury/byod/Pages/default.aspx)
+	* [K-12 Blueprint](http://www.k12blueprint.ca/byod)
+	* [Pros and Cons](http://www.securedgenetworks.com/strategy-blog/20-Pros-and-Cons-of-implementing-BYOD-in-schools)
