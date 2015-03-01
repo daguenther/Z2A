@@ -26,7 +26,7 @@ Please see the [Bitnami Install guide](https://wiki.bitnami.com/Native_Installer
 
 4. Buy Domain name
 
-I reccommend [NameCheap](https://www.namecheap.com/) to buy your domain name
+I recommend [NameCheap](https://www.namecheap.com/) to buy your domain name
 
 5. Port Forward to Server
 
@@ -38,14 +38,16 @@ This is assuming that your server sits behind your router. If this is not the ca
 
 This [article](https://help.ubuntu.com/community/DynamicDNS) explains how to go about setting a Dynamic IP address on your server
 
+Once you have this you need to log into NameCheap and tell it to talk to your Dynamic DNS client. For more information [see this knowledgebase](https://www.namecheap.com/support/knowledgebase/category.aspx/11/dynamic-dns)
+
 ## School computers (I3)
 1. Determine what software you want all students to have
 
 	You will need to think about what you want students to be able to do with their computers, and then establish a list of software that meets those requirements.
 
-2. Reccommend hardware to parents
+2. Recommend hardware to parents
 
-	Not all computers are equal in power and usability. Reccommending specific hardware to parents helps them decided what to purchase for their child.
+	Not all computers are equal in power and usability. Recommending specific hardware to parents helps them decided what to purchase for their child.
 
 3. Implement BYOD
 
