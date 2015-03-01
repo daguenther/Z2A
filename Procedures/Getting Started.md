@@ -28,15 +28,15 @@ Please see the [Bitnami Install guide](https://wiki.bitnami.com/Native_Installer
 
 I reccommend [NameCheap](https://www.namecheap.com/) to buy your domain name
 
-5. Set a Static or Dynamic IP address
-
-This [article](https://help.ubuntu.com/community/DynamicDNS) explains how to go about setting a Dynamic IP address on your server
-
-6. Port Forward to Server
+5. Port Forward to Server
 
 [Here is an article dealing with this](http://enterprise.sourceforge.net/configuring_routers_to_use_dynamic_dns_and_port_forwarding.htm)
 
 This is assuming that your server sits behind your router. If this is not the case you can skip this step.
+
+6. Set a Static or Dynamic IP address
+
+This [article](https://help.ubuntu.com/community/DynamicDNS) explains how to go about setting a Dynamic IP address on your server
 
 ## School computers (I3)
 1. Determine what software you want all students to have
