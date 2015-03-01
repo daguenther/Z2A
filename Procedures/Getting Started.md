@@ -3,7 +3,7 @@
 ## Website (I4)
 1. Buy Hardware
 
-I highly reccommend [Dell's Tower Server](http://www.dell.com/us/business/p/poweredge-t320/fs). Times will change, but at the moment here is what to shoot for:
+I highly recommend [Dell's Tower Server](http://www.dell.com/us/business/p/poweredge-t320/fs). Times will change, but at the moment here is what to shoot for:
 
 * 8 Cores
 * 16 GB Ram
