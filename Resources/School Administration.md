@@ -9,6 +9,6 @@ Schooltool is a breeze to set up on Ubuntu 14.04. The project itself is funded b
 * [Homepage](http://schooltool.org/)
 * [Handbook](http://book.schooltool.org/)
 
-## Google Apps
+## Google Apps (C2, NI, U1)
 
-Another alternative is to rely soley on Google apps for school managment. This process would require teachers to score students attendance and grades using Sheets, which would be shared with school administrators. This method, while simpler in many respects, makes a lot more work for administrators to individually check each cla
+Another alternative is to rely soley on Google apps for school managment. This process would require teachers to score students attendance and grades using Sheets, which would be shared with school administrators. This method, while simpler in many respects, makes a lot more work for administrators to individually check each class for missing students. It also does not provide simple ways to export student data for report cards, but perhaps other approaches such as sharing online documents could replace this method. All in all this is a solution I think could work, but requires a lot of careful planning on the school side to establish procedures to make the work easier for administrators.
