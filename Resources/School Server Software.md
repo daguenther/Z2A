@@ -16,7 +16,7 @@ Ubuntu Cloud is a new approach to managing hardware and software. Landscape is a
 
 ## Ubuntu's Juju (C1, I2, U2)
 
-Juju is software designed to easily deploy other software. It is available for Windows, Mac, and Ubuntu, and provides a near one click install method for complex server software (like wordpress, Drupal, Xwiki) It can be configured either through a GUI or the commandline. Unlike Bitnami, software created using Juju can be told to use the same database. It is more useful for setting up applications that need to communicate with each other. It integrates well with other ubuntu projects, and is a natural choice for a school pursuing Ubuntu as their only operating system.
+Juju is software designed to easily deploy other software. It is available for Windows, Mac, and Ubuntu, and provides a near one click install method for complex server software (like wordpress, Drupal, Xwiki) It can be configured either through a GUI or the commandline. Unlike Bitnami, software created using Juju can be told to use the same database. However, Bitnami has a greater selection of preconfigured software then Juju. Juju however does have the option to implement software not available on the market (with more work); Bitnami does not. It is more useful for setting up applications that need to communicate with each other. It integrates well with other Ubuntu projects, and is a natural choice for a school pursuing Ubuntu as their only operating system.
 
 * [Homepage](https://jujucharms.com/)
 * [Documentation](https://jujucharms.com/docs/)
