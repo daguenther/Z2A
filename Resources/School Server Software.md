@@ -14,6 +14,13 @@ Ubuntu Cloud is a new approach to managing hardware and software. Landscape is a
 
 * [Homepage](http://www.ubuntu.com/cloud)
 
+## Ubuntu's Juju (C1, I2, U2)
+
+Juju is software designed to easily deploy other software. It is available for Windows, Mac, and Ubuntu, and provides a near one click install method for complex server software (like wordpress, Drupal, Xwiki) It can be configured either through a GUI or the commandline. Unlike Bitnami, software created using Juju can be told to use the same database. It is more useful for setting up applications that need to communicate with each other. It integrates well with other ubuntu projects, and is a natural choice for a school pursuing Ubuntu as their only operating system.
+
+* [Homepage](https://jujucharms.com/)
+* [Documentation](https://jujucharms.com/docs/)
+
 ## Bitnami (C2, I2, U2)
 
 Bitnami is a website that strives to create one click installs for complex serve packages. It is by far the easiest way to install and manage server software. It has a large collection existing software, and an active community.
@@ -47,11 +54,4 @@ Dokuwiki is a wiki aimed at providing information. It does not have the level of
 
 * [Homepage](https://www.dokuwiki.org/dokuwiki#)
 * [Bitnami Install](https://bitnami.com/stack/dokuwiki)
-
-## Ubuntu's Juju (C1, I2, U2)
-
-Juju is software designed to easily deploy other software. It is available for Windows, Mac, and Ubuntu, and provides a near one click install method for complex server software. It can be configured either through a GUI or the commandline. Unlike Bitnami, software created using Juju can be told to use the same database. It is more useful for setting up applications that need to communicate with each other. It integrates well with other ubuntu projects, and is a natural choice for a school pursuing Ubuntu as their only operating system.
-
-* [Homepage](https://jujucharms.com/)
-* [Documentation](https://jujucharms.com/docs/)
 
