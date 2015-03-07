@@ -50,4 +50,8 @@ Dokuwiki is a wiki aimed at providing information. It does not have the level of
 
 ## Ubuntu's Juju (C1, I2, U2)
 
-Juju is software designed to easily deploy other software. It is available for Windows, Mac, an
+Juju is software designed to easily deploy other software. It is available for Windows, Mac, and Ubuntu, and provides a near one click install method for complex server software. It can be configured either through a GUI or the commandline. Unlike Bitnami, software created using Juju can be told to use the same database. It is more useful for setting up applications that need to communicate with each other.
+
+* [Homepage](https://jujucharms.com/)
+* [Documentation](https://jujucharms.com/docs/)
+
