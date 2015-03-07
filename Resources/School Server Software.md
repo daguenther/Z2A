@@ -47,3 +47,7 @@ Dokuwiki is a wiki aimed at providing information. It does not have the level of
 
 * [Homepage](https://www.dokuwiki.org/dokuwiki#)
 * [Bitnami Install](https://bitnami.com/stack/dokuwiki)
+
+## Ubuntu's Juju (C1, I2, U2)
+
+Juju is software designed to easily deploy other software. It is available for Windows, Mac, an
