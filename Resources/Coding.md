@@ -12,3 +12,7 @@ Atom is a code editor produced by Github. It has a modular desing, which allows 
 
 Code Academy is one of the top educators for code. It offers many different courses, in different difficulty levels. While not able to be downloaded and installed offline, it's service at the moment is free. I would reccommend taking advantage of this current opportunity.
 
+## Python (C1, I1, U3)
+
+Python is one of the best languages to learn how to code applications. It is fairly straightforward, and comes preinstalled on Ubuntu computers. p
+
