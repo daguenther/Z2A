@@ -14,5 +14,5 @@ Code Academy is one of the top educators for code. It offers many different cour
 
 ## Python (C1, I1, U3)
 
-Python is one of the best languages to learn how to code applications. It is fairly straightforward, and comes preinstalled on Ubuntu computers. p
+Python is one of the best languages to learn how to code applications. It is fairly straightforward, and comes preinstalled on Ubuntu computers. While
 
