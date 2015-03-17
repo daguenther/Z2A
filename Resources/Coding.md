@@ -20,5 +20,11 @@ Khan Academy, in addtion to their many other videos, has a topic on coding. It p
 
 ## Python (C1, I1, U3)
 
-Python is one of the best languages to learn how to code applications. It is fairly straightforward, and comes preinstalled on Ubuntu computers. While
+Python is one of the best languages to learn how to code applications. It is fairly straightforward, and comes preinstalled on Ubuntu computers.
+
+## Learn Python, The Hard Way (C3, NI, U2)
+
+This is a popular book about learning python. While you can pay to download the pdf, the author has also made his resource for free online.
+
+* [Website](http://learnpythonthehardway.org/book/)
 
