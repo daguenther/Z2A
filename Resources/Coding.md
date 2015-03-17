@@ -36,5 +36,5 @@ This is a book about learning Python by creating games. This methods should brin
 
 ## Google Web Designer (C2, I1, U2)
 
-Google
+Google Web Designer is still in beta, but offers a free tool to design web elements. You can create a webpage using
 
