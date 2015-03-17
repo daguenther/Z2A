@@ -34,3 +34,7 @@ This is a book about learning Python by creating games. This methods should brin
 
 * [Homepage](https://inventwithpython.com/)
 
+## Google Web Designer (C2, I1, U2)
+
+Google
+
