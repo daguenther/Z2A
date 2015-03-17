@@ -7,7 +7,7 @@ It is important for schools to offer programs for studnts to learn how to code. 
 Atom is a code editor produced by Github. It has a modular desing, which allows for many different packages to be installed within the program. It can highlight python code, as well as run it in the application using a separate tool called Script.
 
 * [Homepage](https://atom.io/)
-* [Script Tool]
+* [Script Tool](https://atom.io/packages/script)
 
 ## Code Academy (C2, NI, U2)
 
