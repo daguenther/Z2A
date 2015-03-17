@@ -30,5 +30,7 @@ This is a popular book about learning python. While you can pay to download the 
 
 ## Invent with Python (C2, I1, U2)
 
-This is a book about learning Python by creating games. This methods should bring in more in
+This is a book about learning Python by creating games. This methods should bring in more interest due to the nature of the work. It is free to view and download, but you can also buy the book if you feel the desire to do so. In addition, the author has other books about programming which are free to use.
+
+* [Homepage](https://inventwithpython.com/)
 
