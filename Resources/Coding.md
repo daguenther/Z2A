@@ -25,6 +25,8 @@ Python is one of the best languages to learn how to code applications. It is fai
 
 ## PyCharm (C1, I1, U2)
 
+PyCharm is a highly praised Python Integrated Devleopment Environment (IDE). It has a open source community edition (with less features), that allows students to write Python code and run it. It can also integrate with Git to allow for a whole class to work on a single project.
+
 ## Learn Python, The Hard Way (C2, NI, U2)
 
 This is a popular book about learning python. While you can pay to download the pdf, the author has also made his resource for free online. This would be a great digital textbook for students who are learning programming.
