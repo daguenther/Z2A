@@ -4,9 +4,10 @@ It is important for schools to offer programs for studnts to learn how to code. 
 
 ## Atom (C1, I1, U2)
 
-Atom is a code editor produced by Github. It has a modular desing, which allows for many different packages to be installed within the program. It has the feature to preview markdown as you type it, and export your markdown documents to pdf without ever touching the command line.
+Atom is a code editor produced by Github. It has a modular desing, which allows for many different packages to be installed within the program. It can highlight python code, as well as run it in the application using a separate tool called Script.
 
 * [Homepage](https://atom.io/)
+* [Script Tool]
 
 ## Code Academy (C2, NI, U2)
 
