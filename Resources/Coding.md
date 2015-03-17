@@ -24,7 +24,7 @@ Python is one of the best languages to learn how to code applications. It is fai
 
 ## Learn Python, The Hard Way (C3, NI, U2)
 
-This is a popular book about learning python. While you can pay to download the pdf, the author has also made his resource for free online.
+This is a popular book about learning python. While you can pay to download the pdf, the author has also made his resource for free online. This would be a great digital textbook for students who are learning programming.
 
 * [Website](http://learnpythonthehardway.org/book/)
 
