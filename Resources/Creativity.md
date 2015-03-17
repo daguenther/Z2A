@@ -14,6 +14,12 @@ Gimp is a photo maniuplation program. It can be used to mostly everything that o
 * [Homepage](http://www.gimp.org/)
 * [Tutorials](http://www.gimp.org/tutorials/)
 
+## Krita (C1, I1, U2)
+
+Krita is a painting program, and can be used to create some amazing artwork digitally
+
+* [Homepage](https://krita.org/)
+
 ## Inkscape (C1, I1, U1)
 
 Inkscape is a vector drawing program, capable of professional tasks.
