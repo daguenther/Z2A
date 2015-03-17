@@ -22,9 +22,13 @@ Khan Academy, in addtion to their many other videos, has a topic on coding. It p
 
 Python is one of the best languages to learn how to code applications. It is fairly straightforward, and comes preinstalled on Ubuntu computers.
 
-## Learn Python, The Hard Way (C3, NI, U2)
+## Learn Python, The Hard Way (C2, NI, U2)
 
 This is a popular book about learning python. While you can pay to download the pdf, the author has also made his resource for free online. This would be a great digital textbook for students who are learning programming.
 
 * [Website](http://learnpythonthehardway.org/book/)
+
+## Invent with Python (C2, I1, U2)
+
+This is a book about learning Python by creating games. This methods should bring in more in
 
