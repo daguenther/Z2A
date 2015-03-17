@@ -14,7 +14,9 @@ Code Academy is one of the top educators for code. It offers many different cour
 
 ## Khan Academy (C2, NI, U2)
 
-Khan Academy, in addtion to their many other videos, has a topic on coding. It provides a more integrated learning environment then Code Academy, and more direct instruction in the form of vide
+Khan Academy, in addtion to their many other videos, has a topic on coding. It provides a more integrated learning environment then Code Academy, and more direct instruction in the form of videos. 
+
+* [Topic of Coding Homepage](https://www.khanacademy.org/computing/computer-programming)
 
 ## Python (C1, I1, U3)
 
