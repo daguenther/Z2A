@@ -11,7 +11,7 @@ Atom is a code editor produced by Github. It has a modular desing, which allows 
 
 ## Code Academy (C2, NI, U2)
 
-Code Academy is one of the top educators for code. It offers many different courses, in different difficulty levels. While not able to be downloaded and installed offline, it's service at the moment is free. I would reccommend taking advantage of this current opportunity.
+Code Academy is one of the top educators for code. It offers many different courses, in different difficulty levels. While not able to be downloaded and installed offline, it's service at the moment is free. I would recommend taking advantage of this current opportunity.
 
 ## Khan Academy (C2, NI, U2)
 
