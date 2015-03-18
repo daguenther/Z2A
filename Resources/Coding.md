@@ -23,9 +23,13 @@ Khan Academy, in addtion to their many other videos, has a topic on coding. It p
 
 Python is one of the best languages to learn how to code applications. It is fairly straightforward, and comes preinstalled on Ubuntu computers.
 
+* [Homepage](https://www.python.org/)
+
 ## PyCharm (C1, I2, U2)
 
 PyCharm is a highly praised Python Integrated Devleopment Environment (IDE). It has a open source community edition (with less features), that allows students to write Python code and run it. It can also integrate with Git to allow for a whole class to work on a single project.
+
+* [Website](https://www.jetbrains.com/pycharm/)
 
 ## Learn Python, The Hard Way (C2, NI, U2)
 
