@@ -56,3 +56,7 @@ Once you have this you need to log into NameCheap and tell it to talk to your Dy
 	* [One schools division implementation](http://www.peelschools.org/aboutus/21stcentury/byod/Pages/default.aspx)
 	* [K-12 Blueprint](http://www.k12blueprint.ca/byod)
 	* [Pros and Cons](http://www.securedgenetworks.com/strategy-blog/20-Pros-and-Cons-of-implementing-BYOD-in-schools)
+
+## Support Staff
+
+No new technology comes without a fight (and even existing technology requires maintenance). It is imperative that support staff be set up to help with the adoption and implementation of the various pieces of technology mentioned in this project. Please consult the Staff document in order to determine how many support staff you will need to hire. Having a general survey can help establish the numbers you will need.
