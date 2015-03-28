@@ -60,3 +60,7 @@ Once you have this you need to log into NameCheap and tell it to talk to your Dy
 ## Support Staff
 
 No new technology comes without a fight (and even existing technology requires maintenance). It is imperative that support staff be set up to help with the adoption and implementation of the various pieces of technology mentioned in this project. Please consult the Staff document in order to determine how many support staff you will need to hire. Having a general survey can help establish the numbers you will need.
+
+## Community
+
+Have a parent-teacher meeting where you establish clearly what form of technology is the preferred way to contact each other. This is important to make sure either party does not overstep their boundries as to where they can be contacted. Having a clear, established line of communication ensures that all parties know how to contact each other.
