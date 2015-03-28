@@ -33,6 +33,6 @@ I do not believe that multiple choice is the best option in all cases, and so th
 * Have students write on their own paper, and then take a picture of it and send it to you digitally
 * Use a digital write instrument for students to use digital paper to complete assessments.
 
-I favor the second approach, and such instruments are becomming cheaper and cheaper.
+I favor the second approach, and such instruments are becomming cheaper and cheaper. (around 100 dollars)
 
 
