@@ -11,4 +11,9 @@ Below are some procedures for using various forms of technology in the classroom
 * Provide a consistent theme for presenting documents (don't change your handout style mid-semester)
 * Provide PDF documents for digital form
 
+# Digital Submissions
+
+* Provide easy to access submissions
+* 
+
 
