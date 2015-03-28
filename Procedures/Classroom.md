@@ -21,6 +21,8 @@ Below are some procedures for using various forms of technology in the classroom
 * Have a Bittorent Sync client installed on all machines: students can simply put their assignments in it and have it synced to you
 *  Use a dedicated email address on your server. (ex: david.guenther.assignments@yourhost.com)
 * Use your school email, but have a labelling system that marks all student messages into another folder
-* 
+* Use a LMS, like Google Classroom or Moodle which supports online submissions
+
+# 
 
 
