@@ -13,7 +13,7 @@ Below are some procedures for using various forms of technology in the classroom
 
 # Digital Submissions
 
-* Provide easy to access submissions
+* Provide easy to access submission folder
 * 
 
 
