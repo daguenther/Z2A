@@ -23,6 +23,16 @@ Below are some procedures for using various forms of technology in the classroom
 * Use your school email, but have a labelling system that marks all student messages into another folder
 * Use a LMS, like Google Classroom or Moodle which supports online submissions
 
-# 
+# Math assessment
+
+As classrooms attempt to go paperless, one thing that remains as a large challenge is mathematics instruction. While keyboards are designed to type words fast, they are not designed in the same way to write calculus.
+
+I do not believe that multiple choice is the best option in all cases, and so therefore I must insist on some form of digital writing in order to submit math assessment.
+
+## Possible Solutions
+* Have students write on their own paper, and then take a picture of it and send it to you digitally
+* Use a digital write instrument for students to use digital paper to complete assessments.
+
+I favor the second approach, and such instruments are becomming cheaper and cheaper.
 
 
