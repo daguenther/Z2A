@@ -18,5 +18,11 @@ Google Calendar is useful for sharing time specific events to a large audience. 
 
 * (Homepage)[https://www.google.com/calendar/]
 
+## Slides (C2, I4, U2)
+
+Slides is one of the best presentation frameworks I've come across. It is a online tool, but it uses the backend of reveal.js (an open source project). With it, you can create online presentations, but also download them for offline use. A pro account allows more features, but the standard account is still useful
+
+* (Hompage)[https://slides.com/]
+
 
 
