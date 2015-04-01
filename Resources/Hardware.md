@@ -14,4 +14,8 @@ Dell laptops are some of the best in my opinion. While other hardware seems to s
 
 * [Dell Homepage](http://www.dell.com/)
 
+## Chrome Cast (C2, I1, U1)
 
+Chromecast is a small HDMI devices that allows users to stream media wirelessly from devices with chrome on them. This is the ideal solution for wirelessly broadcasting screens from phones, tablets and computers. In an age where teachers are using different devices to teach, it is important that the technology is in place to broadcast each of those devices to a larger screen.
+
+* [Chrome Cast Home page](https://www.google.ca/chrome/devices/chromecast/)
