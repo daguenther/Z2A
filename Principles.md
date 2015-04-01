@@ -12,6 +12,7 @@ Below are some basic governing principles that the rest of this project will att
 The following are some general goals of using technology
 
 * Students can accomplish tasks with and without the use of computer technology
+* Students are comfertable living and function in a world that relies on computer technology
 * 
 
 
