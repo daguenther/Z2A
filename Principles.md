@@ -11,11 +11,11 @@ Below are some basic governing principles that the rest of this project will att
 
 The following are some general goals of using technology
 
-* Students are comfertable living and function in a world that relies on technology
+* Students are comfortable living and functioning in a world that relies on technology
 * Students understand how the technology they use works
 * Students understand the benefits and limitatations of using technology
 * Students understand their place as a digital citizen
 * Students show respect to others in both an physical and online space
-* 
+* Students can collaborate with others on projects using
 
 
