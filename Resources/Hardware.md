@@ -10,7 +10,7 @@ Wacom provides a solution where they provide a touch interface. One can then use
 
 ## Dell (C2, I3, U2)
 
-Dell laptops are some of the best in my opinion. While other hardware seems to struggle at times to run linux, Dell hardware usually works quite well. I reccomend this hardware as the schools choice for student and staff computers
+Dell laptops are some of the best in my opinion. While other hardware seems to struggle at times to run linux, Dell hardware usually works quite well. I reccomend this hardware as the schools choice for student and staff computers. Projectors can also be purchased here.
 
 * [Dell Homepage](http://www.dell.com/)
 
