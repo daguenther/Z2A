@@ -8,4 +8,4 @@ Wacom provides a solution where they provide a touch interface. One can then use
 
 * [Wacom for Education](http://www.wacom.com/en-ca/discover/educate/interactive-classroom)
 
-
+## Dell (C2, I
