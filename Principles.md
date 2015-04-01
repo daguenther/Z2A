@@ -15,6 +15,7 @@ The following are some general goals of using technology
 * Students understand how the technology they use works
 * Students understand the benefits and limitatations of using technology
 * Students understand their place as a digital citizen
-
+* Students show respect to others in both an physical and online space
+* 
 
 
