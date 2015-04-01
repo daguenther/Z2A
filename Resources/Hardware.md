@@ -13,3 +13,5 @@ Wacom provides a solution where they provide a touch interface. One can then use
 Dell laptops are some of the best in my opinion. While other hardware seems to struggle at times to run linux, Dell hardware usually works quite well. I reccomend this hardware as the schools choice for student and staff computers
 
 * [Dell Homepage](http://www.dell.com/)
+
+
