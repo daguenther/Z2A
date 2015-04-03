@@ -4,7 +4,7 @@ OS's provide the framework on which everything else is used
 
 ## Ubuntu Desktop (C1, I2, U1)
 
-Ubuntu is an extremly friendly linux distribution. It provides internet browsing, email, photo managmenet, and an office suite right out of the box. In addition, Ubuntu comes with support from the community as well their host company, Canonical. This is a farily large project, and multiple derivates have emerged that are also worth exploring.
+Ubuntu is an extremely friendly Linux distribution. It provides internet browsing, email, photo management, and an office suite right out of the box. In addition, Ubuntu comes with support from the community as well their host company, Canonical. This is a fairly large project, and multiple derivatives have emerged that are also worth exploring.
 
 * [Homepage](http://www.ubuntu.com/)
 * [Support](http://askubuntu.com/)
@@ -24,8 +24,8 @@ Fedora is a project of Red Hat. It has a different package manager then Ubuntu, 
 
 ## Arch Linux (C1, I4, U3)
 
-Arch linux's philisophy is keeping it simple. It has extensible customization, and a large community. Of all the linux distros, Arch provides one of the best resources for learning about some of the inner workings of computers.
+Arch Linux's philosophy is keeping it simple. It has extensible customization, and a large community. Of all the Linux distros, Arch provides one of the best resources for learning about some of the inner workings of computers.
 
-I highly reccommend this for students learning how operating systems work, but not as the default operating system for the school.
+I highly recommend this for students learning how operating systems work, but not as the default operating system for the school.
 
 * [Hompage](https://www.archlinux.org/)
