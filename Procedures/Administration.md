@@ -8,14 +8,14 @@ I would recommend this approach for new schools, but not for large scale schools
 
 # Bring your own device (BYOD)
 
-It is a emormous task to try and manage everyone's computer. To cut down on strain, as well as IT cost, it is more feasible to try a BYOD approach. While this does mean that students are encouraged to bring their own device, a certain set of precautions must be in place
+It is a enormous task to try and manage everyone's computer. To cut down on strain, as well as IT cost, it is more feasible to try a BYOD approach. While this does mean that students are encouraged to bring their own device, a certain set of precautions must be in place
 
 1. The student must bring a device with an operating system accepted by the school
 2. The student must have installed all the apps the school recommends for learning in their particular area
 
 # Technology Use
 
-Certain guidelines and proceduers must be in place for proper computer use. Communication must also happen with parents for the use of these guidlines at home.
+Certain guidelines and procedures must be in place for proper computer use. Communication must also happen with parents for the use of these guidelines at home.
 
 * Don't pretend to be someone who you're not (*)
 * Don't torrent or download large files during the day (*)
@@ -28,7 +28,7 @@ Certain guidelines and proceduers must be in place for proper computer use. Comm
 
 Disciplinary action will be carried out for failure to comply with (*), and will follow action for other disciplinary actions that the school has in place.
 
-Additional discussion will be with only parents. At the beginning of each school year a workshop / presentation will be held for parents in the community. Topics surrounding technology use for kids will be talked about, and different ways to educate students. The following are reccommended topics (but not limited to):
+Additional discussion will be with only parents. At the beginning of each school year a workshop / presentation will be held for parents in the community. Topics surrounding technology use for kids will be talked about, and different ways to educate students. The following are recommended topics (but not limited to):
 
 * Screen time
 * People kids meet online
@@ -58,9 +58,3 @@ The school will also provide help for the victim, as the need is evaluated.
 * Providing a mentor
 * Going socially offline
 * Public announcements to the school body (if the abuse is school wide)
-
-
-
-
-
-
