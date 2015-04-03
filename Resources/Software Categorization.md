@@ -19,7 +19,7 @@ In addition to classes of software, some resources are easier to install then ot
 * I2 Software - Moderately level of experience needed to install.
 * I3 Software - High level of experience needed to install.
 * I4 Software - Extreme level of experience needed to install.
-* NI - Not Avaible to Install
+* NI - Not Available to Install
 
 All of these difficulty levels assume a basic working knowledge of computers.
 
