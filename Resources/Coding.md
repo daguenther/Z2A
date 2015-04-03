@@ -1,10 +1,10 @@
 # Coding
 
-It is important for schools to offer programs for studnts to learn how to code. Coding is unique blend of both math and science, and could be used in conjunction with either.
+It is important for schools to offer programs for students to learn how to code. Coding is unique blend of both math and science, and could be used in conjunction with either.
 
 ## Atom (C1, I1, U2)
 
-Atom is a code editor produced by Github. It has a modular desing, which allows for many different packages to be installed within the program. It can highlight python code, as well as run it in the application using a separate tool called Script.
+Atom is a code editor produced by Github. It has a modular design, which allows for many different packages to be installed within the program. It can highlight python code, as well as run it in the application using a separate tool called Script.
 
 * [Homepage](https://atom.io/)
 * [Script Tool](https://atom.io/packages/script)
@@ -17,7 +17,7 @@ Code Academy is one of the top educators for code. It offers many different cour
 
 ## Khan Academy (C2, NI, U2)
 
-Khan Academy, in addtion to their many other videos, has a topic on coding. It provides a more integrated learning environment then Code Academy, and more direct instruction in the form of videos. 
+Khan Academy, in addition to their many other videos, has a topic on coding. It provides a more integrated learning environment then Code Academy, and more direct instruction in the form of videos. 
 
 * [Topic of Coding Homepage](https://www.khanacademy.org/computing/computer-programming)
 
@@ -29,7 +29,7 @@ Python is one of the best languages to learn how to code applications. It is fai
 
 ## PyCharm (C1, I2, U2)
 
-PyCharm is a highly praised Python Integrated Devleopment Environment (IDE). It has a open source community edition (with less features), that allows students to write Python code and run it. It can also integrate with Git to allow for a whole class to work on a single project.
+PyCharm is a highly praised Python Integrated Development Environment (IDE). It has a open source community edition (with less features), that allows students to write Python code and run it. It can also integrate with Git to allow for a whole class to work on a single project.
 
 * [Website](https://www.jetbrains.com/pycharm/)
 
@@ -47,7 +47,7 @@ This is a book about learning Python by creating games. This methods should brin
 
 ## Google Web Designer (C2, I1, U2)
 
-Google Web Designer is still in beta, but offers a free tool to design web elements. You can create a webpage in Google Web Desinger, and then export the code. This would be a great tool about teaching simple website creation for students.
+Google Web Designer is still in beta, but offers a free tool to design web elements. You can create a webpage in Google Web Designer, and then export the code. This would be a great tool about teaching simple website creation for students.
 
 * [Homepage](http://www.google.ca/webdesigner/)
 
