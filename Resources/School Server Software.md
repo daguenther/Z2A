@@ -16,7 +16,7 @@ Ubuntu Cloud is a new approach to managing hardware and software. Landscape is a
 
 ## Ubuntu's Juju (C1, I2, U2)
 
-Juju is software designed to easily deploy other software. It is available for Windows, Mac, and Ubuntu, and provides a near one click install method for complex server software (like wordpress, Drupal, Xwiki) It can be configured either through a GUI or the commandline. Unlike Bitnami, software created using Juju can be told to use the same database. However, Bitnami has a greater selection of preconfigured software then Juju. Juju however does have the option to implement software not available on the market (with more work); Bitnami does not. It is more useful for setting up applications that need to communicate with each other. It integrates well with other Ubuntu projects, and is a natural choice for a school pursuing Ubuntu as their only operating system.
+Juju is software designed to easily deploy other software. It is available for Windows, Mac, and Ubuntu, and provides a near one click install method for complex server software (like Wordpress, Drupal, Xwiki) It can be configured either through a GUI or the commandline. Unlike Bitnami, software created using Juju can be told to use the same database. However, Bitnami has a greater selection of preconfigured software then Juju. Juju however does have the option to implement software not available on the market (with more work); Bitnami does not. It is more useful for setting up applications that need to communicate with each other. It integrates well with other Ubuntu projects, and is a natural choice for a school pursuing Ubuntu as their only operating system.
 
 * [Homepage](https://jujucharms.com/)
 * [Documentation](https://jujucharms.com/docs/)
@@ -29,14 +29,14 @@ Bitnami is a website that strives to create one click installs for complex serve
 
 ## Wordpress (C1, I1, U1)
 
-Wordpress it the most common and easiest content mangement system. It was originally designed as a blogging platform, but through the years it has evolved into a much broader application. In terms of changing content on a website, Wordpress is very easy to work with. In addition to providing a free blog, one can also download wordpress and host the application yourself. I reccommend schools to create their public website using this platform (and installed through Bitnami). There are both free and paid themes, but it is not difficult to write your own if you've done some programming. From here I would link to other online services, but the Wordpress installation provides a great front page to your school.
+Wordpress it the most common and easiest content management system. It was originally designed as a blogging platform, but through the years it has evolved into a much broader application. In terms of changing content on a website, Wordpress is very easy to work with. In addition to providing a free blog, one can also download Wordpress and host the application yourself. I recommend schools to create their public website using this platform (and installed through Bitnami). There are both free and paid themes, but it is not difficult to write your own if you've done some programming. From here I would link to other online services, but the Wordpress installation provides a great front page to your school.
 
 * [Homepage](https://wordpress.org/)
 * [Bitnami Install](https://bitnami.com/stack/wordpress)
 
 ## Open Atrium (C1, I2, U3)
 
-Open Atrium is a collection of tools built on top of a Drupal CMS dedicated to team collaboration. It does teams and organizational spaces much better then Wordpress. Open Atrium is much better at having multiple colloborate in a workplace setting. I could see this as a valuable tool for in house school management. As it is based off Drupal, you get that powerful customization that marks that CMS. Unfortunately, it is less user friendly, which could be a strong deterant for some.
+Open Atrium is a collection of tools built on top of a Drupal CMS dedicated to team collaboration. It does teams and organizational spaces much better then Wordpress. Open Atrium is much better at having multiple collaborate in a workplace setting. I could see this as a valuable tool for in house school management. As it is based off Drupal, you get that powerful customization that marks that CMS. Unfortunately, it is less user friendly, which could be a strong deterrent for some.
 
 * [Homepage](http://openatrium.com/#!/)
 * [Bitnami Install](https://bitnami.com/stack/openatrium)
