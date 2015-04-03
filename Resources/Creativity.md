@@ -9,7 +9,7 @@ Blender is a mature digital animation program. It has a steep learning curve, bu
 
 ## Gimp (C1, I1, U3)
 
-Gimp is a photo maniuplation program. It can be used to mostly everything that other more expensive commerical programs are able to do
+Gimp is a photo manipulation program. It can be used to mostly everything that other more expensive commercial programs are able to do
 
 * [Homepage](http://www.gimp.org/)
 * [Tutorials](http://www.gimp.org/tutorials/)
