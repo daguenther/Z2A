@@ -25,7 +25,7 @@ Sage is a library of higher math software. It is complex and difficult for first
 
 ## Libreoffice Calc (C1, I1, U3)
 
-Libreoffice Calc is a spreadsheet program that comes with the office suite. It is useful for teaching about finance, statistics, and performing repetive equations.
+Libreoffice Calc is a spreadsheet program that comes with the office suite. It is useful for teaching about finance, statistics, and performing repetitive equations.
 
 * [Homepage](http://www.libreoffice.org/)
 
