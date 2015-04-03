@@ -63,4 +63,4 @@ No new technology comes without a fight (and even existing technology requires m
 
 ## Community
 
-Have a parent-teacher meeting where you establish clearly what form of technology is the preferred way to contact each other. This is important to make sure either party does not overstep their boundries as to where they can be contacted. Having a clear, established line of communication ensures that all parties know how to contact each other.
+Have a parent-teacher meeting where you establish clearly what form of technology is the preferred way to contact each other. This is important to make sure either party does not overstep their boundaries as to where they can be contacted. Having a clear, established line of communication ensures that all parties know how to contact each other.
