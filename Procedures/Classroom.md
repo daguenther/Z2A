@@ -20,7 +20,7 @@ Below are some procedures for using various forms of technology in the classroom
 ##Possible solutions:
 * Have a Bittorent Sync client installed on all machines: students can simply put their assignments in it and have it synced to you
 *  Use a dedicated email address on your server. (ex: david.guenther.assignments@yourhost.com)
-* Use your school email, but have a labelling system that marks all student messages into another folder
+* Use your school email, but have a labeling system that marks all student messages into another folder
 * Use a LMS, like Google Classroom or Moodle which supports online submissions
 
 # Math assessment
@@ -33,7 +33,7 @@ I do not believe that multiple choice is the best option in all cases, and so th
 * Have students write on their own paper, and then take a picture of it and send it to you digitally
 * Use a digital write instrument for students to use digital paper to complete assessments.
 
-I favor the second approach, and such instruments are becomming cheaper and cheaper. (around 100 dollars)
+I favor the second approach, and such instruments are becoming cheaper and cheaper. (around 100 dollars)
 
 
 
