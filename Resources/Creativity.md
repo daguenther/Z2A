@@ -7,9 +7,9 @@ Blender is a mature digital animation program. It has a steep learning curve, bu
 * [Homepage](http://www.blender.org/)
 * [Blender Tutorials](http://www.blenderguru.com/)
 
-## Godot (C1, I1, U3)
+## Godot (C1, I1, U4)
 
-Godot is a new game engine. It is still in beta at the time of this writing. However, it puts no limations on what operating system it runs on, as well as no limiation on what platforms it can export to. Students can use this tool to build games for their smartphones.
+Godot is a new game engine. It is still in beta at the time of this writing. However, it puts no limations on what operating system it runs on, as well as no limiation on what platforms it can export to. Students can use this tool to build games for their smartphones. I would keep a close watch on this software in the future, but would only use it on a trial basis at this point.
 
 ## Gimp (C1, I1, U3)
 
