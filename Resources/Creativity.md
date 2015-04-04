@@ -2,10 +2,14 @@
 
 ## Blender (C1, I1, U4)
 
-Blender is a mature digital animation program. It has a steep learning curve, but can be used to create some incredible things.
+Blender is a mature digital animation program. It has a steep learning curve, but can be used to create some incredible things. It's primary purpose is for animation, but it can also produce images, as well as games.
 
 * [Homepage](http://www.blender.org/)
 * [Blender Tutorials](http://www.blenderguru.com/)
+
+## Godot (C1, I1, U3)
+
+Godot is a new game engine. It is still in beta at the time of this writing. However, it puts no limations on what operating system it runs on, as well as no limiation on what platforms it can export to. Students can use this tool to build games for their smartphones.
 
 ## Gimp (C1, I1, U3)
 
