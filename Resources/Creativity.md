@@ -45,12 +45,12 @@ Ardour is an advanced audio program for professional music creation. It is free 
 
 ## Kdenlive (C1, I1, U2)
 
-Kdenlive is one of the best linear movie makers for linux. It can easily be installed on Ubuntu. There are many effects, and features available.
+Kdenlive is one of the best linear movie makers for linux. It can easily be installed on Ubuntu. There are many effects, and features available. I reccommend this for simple video projects.
 
 * [Homepage](https://kdenlive.org/)
 
 ## Lightworks (C2, I1, U4)
 
-Lightworks is a professional video editing program, capable of creating feauture length movies. It has a free liscence, but also a Pro 
+Lightworks is a professional video editing program, capable of creating feauture length movies. It has a free liscence, but also a Pro version for those who want a bit more. It is a higher end program, and as such it has a steeper learning curve. I reccommend this for students interested in going into full time movie making.
 
 
