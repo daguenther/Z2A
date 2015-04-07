@@ -53,4 +53,6 @@ Kdenlive is one of the best linear movie makers for linux. It can easily be inst
 
 Lightworks is a professional video editing program, capable of creating feauture length movies. It has a free liscence, but also a Pro version for those who want a bit more. It is a higher end program, and as such it has a steeper learning curve. I reccommend this for students interested in going into full time movie making.
 
+* [Homepage](http://www.lwks.com/)
+
 
